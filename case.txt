@@ -1,5 +1,27 @@
 switch (food)
 
-   {
-      
-   }
+  {
+     case 0:
+       food="拉麵";
+       break;
+
+     case 1:
+       food="壽司";
+       break;
+
+     case 2:
+       food="咖哩";
+       break;
+
+     case 3:
+       food="薯條";
+       break;
+
+     case 4 :
+       food = "冰激淋"
+       break;
+
+     case 5 :
+       food = "哈密瓜"
+       break;
+ }
